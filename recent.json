@@ -1,0 +1,360 @@
+Event<uri=/lol-acs/v2/recently-played-champions/244719212 created=1587927235.511219>
+DATA
+{
+  "data": {
+    "champions": [
+      {
+        "championId": 75,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "DUO_CARRY",
+        "timestamp": 1587695104976
+      },
+      {
+        "championId": 62,
+        "lane": "MID",
+        "queue": 420,
+        "role": "DUO",
+        "timestamp": 1587692868886
+      },
+      {
+        "championId": 114,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1587102697958
+      },
+      {
+        "championId": 86,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1587100638419
+      },
+      {
+        "championId": 875,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1587094466405
+      },
+      {
+        "championId": 20,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1587091061264
+      },
+      {
+        "championId": 245,
+        "lane": "MID",
+        "queue": 440,
+        "role": "SOLO",
+        "timestamp": 1587087775998
+      },
+      {
+        "championId": 157,
+        "lane": "MID",
+        "queue": 440,
+        "role": "SOLO",
+        "timestamp": 1587085902395
+      },
+      {
+        "championId": 35,
+        "lane": "TOP",
+        "queue": 1020,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1587083420823
+      },
+      {
+        "championId": 62,
+        "lane": "",
+        "queue": 420,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1587016519331
+      },
+      {
+        "championId": 19,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586920432201
+      },
+      {
+        "championId": 20,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586845955322
+      },
+      {
+        "championId": 121,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586843694119
+      },
+      {
+        "championId": 875,
+        "lane": "TOP",
+        "queue": 430,
+        "role": "DUO",
+        "timestamp": 1586757066845
+      },
+      {
+        "championId": 157,
+        "lane": "MID",
+        "queue": 430,
+        "role": "DUO",
+        "timestamp": 1586754201617
+      },
+      {
+        "championId": 157,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586751850123
+      },
+      {
+        "championId": 555,
+        "lane": "",
+        "queue": 420,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586750212932
+      },
+      {
+        "championId": 76,
+        "lane": "MID",
+        "queue": 450,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586747820398
+      },
+      {
+        "championId": 157,
+        "lane": "TOP",
+        "queue": 430,
+        "role": "SOLO",
+        "timestamp": 1586746150483
+      },
+      {
+        "championId": 75,
+        "lane": "TOP",
+        "queue": 430,
+        "role": "SOLO",
+        "timestamp": 1586744497812
+      },
+      {
+        "championId": 9,
+        "lane": "JUNGLE",
+        "queue": 430,
+        "role": "",
+        "timestamp": 1586742713328
+      },
+      {
+        "championId": 62,
+        "lane": "",
+        "queue": 1020,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586741371280
+      },
+      {
+        "championId": 157,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586587738677
+      },
+      {
+        "championId": 875,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586585292868
+      },
+      {
+        "championId": 75,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586583196960
+      },
+      {
+        "championId": 875,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586580542636
+      },
+      {
+        "championId": 875,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586577081634
+      },
+      {
+        "championId": 875,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586575259615
+      },
+      {
+        "championId": 62,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586572983965
+      },
+      {
+        "championId": 62,
+        "lane": "BOTTOM",
+        "queue": 440,
+        "role": "DUO",
+        "timestamp": 1586570393800
+      },
+      {
+        "championId": 62,
+        "lane": "TOP",
+        "queue": 420,
+        "role": "SOLO",
+        "timestamp": 1586498349750
+      },
+      {
+        "championId": 62,
+        "lane": "BOTTOM",
+        "queue": 420,
+        "role": "DUO",
+        "timestamp": 1586410160103
+      },
+      {
+        "championId": 62,
+        "lane": "MID",
+        "queue": 420,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586407924737
+      },
+      {
+        "championId": 62,
+        "lane": "BOTTOM",
+        "queue": 440,
+        "role": "DUO",
+        "timestamp": 1586405835874
+      },
+      {
+        "championId": 38,
+        "lane": "",
+        "queue": 440,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586403723198
+      },
+      {
+        "championId": 9,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586401685237
+      },
+      {
+        "championId": 9,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586399121131
+      },
+      {
+        "championId": 57,
+        "lane": "",
+        "queue": 1020,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586325786093
+      },
+      {
+        "championId": 9,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586323290922
+      },
+      {
+        "championId": 31,
+        "lane": "",
+        "queue": 450,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586246215712
+      },
+      {
+        "championId": 39,
+        "lane": "",
+        "queue": 1020,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586245167480
+      },
+      {
+        "championId": 99,
+        "lane": "",
+        "queue": 1020,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586244242791
+      },
+      {
+        "championId": 62,
+        "lane": "",
+        "queue": 1020,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586242632158
+      },
+      {
+        "championId": 9,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586240423664
+      },
+      {
+        "championId": 9,
+        "lane": "JUNGLE",
+        "queue": 420,
+        "role": "",
+        "timestamp": 1586238053967
+      },
+      {
+        "championId": 30,
+        "lane": "TOP",
+        "queue": 450,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586231697245
+      },
+      {
+        "championId": 238,
+        "lane": "",
+        "queue": 450,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586230189420
+      },
+      {
+        "championId": 4,
+        "lane": "",
+        "queue": 450,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586228865140
+      },
+      {
+        "championId": 203,
+        "lane": "BOTTOM",
+        "queue": 450,
+        "role": "SOLO",
+        "timestamp": 1586226962370
+      },
+      {
+        "championId": 11,
+        "lane": "",
+        "queue": 450,
+        "role": "DUO_SUPPORT",
+        "timestamp": 1586225707877
+      }
+    ],
+    "gameCount": 50
+  },
+  "eventType": "Update"
+}

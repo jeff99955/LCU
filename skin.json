@@ -1,0 +1,839 @@
+GET /lol-champions/v1/inventories/25235409/champions/157
+{
+  "active": True,
+  "alias": "Yasuo",
+  "banVoPath": "/lol-game-data/assets/v1/champion-ban-vo/157.ogg",
+  "baseLoadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Base/YasuoLoadScreen.jpg",
+  "botEnabled": False,
+  "chooseVoPath": "/lol-game-data/assets/v1/champion-choose-vo/157.ogg",
+  "disabledQueues": [],
+  "freeToPlay": False,
+  "id": 157,
+  "name": "犽 宿",
+  "ownership": {
+    "freeToPlayReward": False,
+    "owned": True,
+    "rental": {
+      "endDate": 0,
+      "purchaseDate": 1499489590000,
+      "rented": False,
+      "winCountRemaining": 0
+    }
+  },
+  "passive": {
+    "description": "犽宿的暴擊機率加倍。除此之外，犽宿在移動時會鑄造護盾，被敵人或野怪擊中將觸發護盾。",
+    "name": "浪人之道"
+  },
+  "purchased": 1499489590000,
+  "rankedPlayEnabled": True,
+  "roles": ["fighter", "assassin"],
+  "skins": [
+    {
+      "championId": 157,
+      "chromaPath": None,
+      "chromas": [],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157000,
+      "isBase": True,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Base/YasuoLoadScreen.jpg",
+      "name": "犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 0,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157000.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": False,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157000.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157000.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157001.png",
+      "chromas": [
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157004.png",
+          "colors": ["#002B83", "#AA5500"],
+          "disabled": False,
+          "id": 157004,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157005.png",
+          "colors": ["#797ACF", "#E6CE13"],
+          "disabled": False,
+          "id": 157005,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157006.png",
+          "colors": ["#752505", "#2E9C5C"],
+          "disabled": False,
+          "id": 157006,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157007.png",
+          "colors": ["#00AA7F", "#550000"],
+          "disabled": False,
+          "id": 157007,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157008.png",
+          "colors": ["#030635", "#D2D894"],
+          "disabled": False,
+          "id": 157008,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        }
+      ],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157001,
+      "isBase": False,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin01/YasuoLoadScreen_1.jpg",
+      "name": "西域牛仔 犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1573110139000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157001.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157001.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157001.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": None,
+      "chromas": [],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157002,
+      "isBase": False,
+      "lastSelected": True,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin02/YasuoLoadScreen_2.jpg",
+      "name": "菁英計畫：犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1503374845000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157002.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157002.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157002.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": None,
+      "chromas": [],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157003,
+      "isBase": False,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin03/YasuoLoadScreen_3.jpg",
+      "name": "血月劍心 犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1504626439000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157003.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157003.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157003.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157009.png",
+      "chromas": [
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157034.png",
+          "colors": ["#C33C3E", "#0C0E15"],
+          "disabled": False,
+          "id": 157034,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        }
+      ],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157009,
+      "isBase": False,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin09/YasuoLoadscreen_9.jpg",
+      "name": "闇夜使者 犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1556074533000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157009.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157009.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157009.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157010.png",
+      "chromas": [
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157011.png",
+          "colors": ["#D33528", "#D33528"],
+          "disabled": False,
+          "id": 157011,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157012.png",
+          "colors": ["#2756CE", "#2756CE"],
+          "disabled": False,
+          "id": 157012,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157013.png",
+          "colors": ["#ECF9F8", "#ECF9F8"],
+          "disabled": False,
+          "id": 157013,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157014.png",
+          "colors": ["#27211C", "#27211C"],
+          "disabled": False,
+          "id": 157014,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157015.png",
+          "colors": ["#54209B", "#54209B"],
+          "disabled": False,
+          "id": 157015,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157016.png",
+          "colors": ["#E58BA5", "#E58BA5"],
+          "disabled": False,
+          "id": 157016,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        }
+      ],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157010,
+      "isBase": False,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin10/YasuoLoadScreen_10.jpg",
+      "name": "奧德賽 犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1573110139000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157010.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157010.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157010.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157017.png",
+      "chromas": [
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157019.png",
+          "colors": ["#5F432B", "#5F432B"],
+          "disabled": False,
+          "id": 157019,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157020.png",
+          "colors": ["#D33528", "#D33528"],
+          "disabled": False,
+          "id": 157020,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157021.png",
+          "colors": ["#6ABBEE", "#6ABBEE"],
+          "disabled": False,
+          "id": 157021,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157022.png",
+          "colors": ["#9C68D7", "#9C68D7"],
+          "disabled": False,
+          "id": 157022,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157023.png",
+          "colors": ["#E58BA5", "#E58BA5"],
+          "disabled": False,
+          "id": 157023,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157024.png",
+          "colors": ["#FFEE59", "#FFEE59"],
+          "disabled": False,
+          "id": 157024,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": True,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 1574925717000,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157025.png",
+          "colors": ["#27211C", "#27211C"],
+          "disabled": False,
+          "id": 157025,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157026.png",
+          "colors": ["#A5FFF8", "#D87BFF"],
+          "disabled": False,
+          "id": 157026,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        }
+      ],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157017,
+      "isBase": False,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin17/YasuoLoadScreen_17.jpg",
+      "name": "戰鬥魔王 犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1571613461000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157017.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157017.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157017.jpg"
+    },
+    {
+      "championId": 157,
+      "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157018.png",
+      "chromas": [
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157027.png",
+          "colors": ["#D33528", "#D33528"],
+          "disabled": False,
+          "id": 157027,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157028.png",
+          "colors": ["#27211C", "#27211C"],
+          "disabled": False,
+          "id": 157028,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157029.png",
+          "colors": ["#FFEE59", "#FFEE59"],
+          "disabled": False,
+          "id": 157029,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157030.png",
+          "colors": ["#6ABBEE", "#6ABBEE"],
+          "disabled": False,
+          "id": 157030,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157031.png",
+          "colors": ["#9C68D7", "#9C68D7"],
+          "disabled": False,
+          "id": 157031,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157032.png",
+          "colors": ["#ECF9F8", "#ECF9F8"],
+          "disabled": False,
+          "id": 157032,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        },
+        {
+          "championId": 157,
+          "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/157/157033.png",
+          "colors": ["#BD1357", "#19182A"],
+          "disabled": False,
+          "id": 157033,
+          "lastSelected": False,
+          "name": "",
+          "ownership": {
+            "freeToPlayReward": False,
+            "owned": False,
+            "rental": {
+              "endDate": 0,
+              "purchaseDate": 0,
+              "rented": False,
+              "winCountRemaining": 0
+            }
+          },
+          "stillObtainable": True
+        }
+      ],
+      "disabled": False,
+      "emblems": [],
+      "featuresText": None,
+      "id": 157018,
+      "isBase": False,
+      "lastSelected": False,
+      "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Skin18/YasuoLoadScreen_18.PIE_C_9_22.jpg",
+      "name": "True Damage 犽宿",
+      "ownership": {
+        "freeToPlayReward": False,
+        "owned": True,
+        "rental": {
+          "endDate": 0,
+          "purchaseDate": 1578068798000,
+          "rented": False,
+          "winCountRemaining": 0
+        }
+      },
+      "rarityGemPath": "",
+      "skinType": "",
+      "splashPath": "/lol-game-data/assets/v1/champion-splashes/157/157018.jpg",
+      "splashVideoPath": None,
+      "stillObtainable": True,
+      "tilePath": "/lol-game-data/assets/v1/champion-tiles/157/157018.jpg",
+      "uncenteredSplashPath": "/lol-game-data/assets/v1/champion-splashes/uncentered/157/157018.jpg"
+    }
+  ],
+  "spells": [
+    {
+      "description": "向前突刺，傷害前方直線上的所有敵人。<br><br>命中敵人後，獲得一層天寒地凍疊 加效果，持續數秒。達 2 層時，鋼鐵暴雪會擊出一道旋風，並對命中的敵人造成<font color='#6655CC'>滯空</font>。<br><br>鋼鐵暴雪被視為普攻的一種，效果機制全部跟普攻一樣。",
+      "name": "鋼鐵暴雪"
+    },
+    {
+      "description": "製造一道移動牆面阻擋所有敵方火力， 持續 4 秒。",
+      "name": "風牆鐵壁"
+    },
+    {
+      "description": "衝向敵方目標並造成魔法傷害。每次施放都會增加下次衝刺的基礎傷害，最高可達一個最大傷害值。<br><br>數秒內無法重複施放在同一個目標上。<br><br><font color='#99FF99'>如果在衝刺期間施放鋼鐵暴雪，其將以圓圈的形式擊出，攻擊犽宿身邊的敵人。</font>",
+      "name": "刃敵千軍"
+    },
+    {
+      "description": "瞬間移動至<factionIonia1>滯空</factionIonia1>的敵方英雄身邊，延長所有目標的<factionIonia1>滯空</factionIonia1>時間。風湧回滿但重置鋼鐵暴雪的疊層。<br><br>之後一段時間內，犽宿的暴擊獲得顯著的額外物理穿透效果。",
+      "name": "奪命氣息"
+    }
+  ],
+  "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/157.png",
+  "stingerSfxPath": "/lol-game-data/assets/v1/champion-sfx-audios/157.ogg",
+  "tacticalInfo": { "damageType": "kPhysical", "difficulty": 3, "style": 3 },
+  "title": "放逐浪人"
+}

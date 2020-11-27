@@ -1,0 +1,9 @@
+{'availability': 'chat', 'gameName': '', 'gameTag': '', 'icon': 4498, 'id': '25235409', 'lastSeenOnlineTimestamp': None,
+ 'lol': {'championId': '', 'clubsData': 'StnHMaqha9BQ6G7SkEnv5dPgKGBiPQebXUFHGS7PSQqGpgXCo91CvB4SLzXQZraT5dTu/MzVZrcB7FJ
+A5m+OVZVsnJPat7qONxVbP18J0bTK2yHRR1I2aSsPLEZF+vIhCEsRZQr2/ZECx5oV9c+ArTFW3s/T1g0Um/RnPLF8mFs=', 'companionId': '1', 'gam
+eId': '1788676104', 'gameMode': 'ONEFORALL', 'gameQueueType': 'ONEFORALL', 'gameStatus': 'hosting_ONEFORALL', 'isObserva
+ble': 'ALL', 'level': '236', 'mapId': '', 'pty': '{"partyId":"df4c43db-23fb-4c6c-8d34-4b505da902ac","queueId":1020,"summ
+oners":[11565410,25235409]}', 'puuid': '8b5970f7-75eb-5caa-a8b2-27dc71ee52df', 'queueId': '1020', 'regalia': '{"bannerTy
+pe":2,"crestType":2}', 'skinVariant': '', 'skinname': '', 'timeStamp': '1587544313744'}, 'name': '脾氣是硬了點ù', 'patch
+line': '', 'pid': '', 'platformId': '', 'product': 'league_of_legends', 'productName': '', 'puuid': '8b5970f7-75eb-5caa-
+a8b2-27dc71ee52df', 'statusMessage': None, 'summary': '', 'summonerId': 25235409, 'time': 0}

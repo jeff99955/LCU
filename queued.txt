@@ -1,0 +1,10 @@
+{'declinerIds': [], 'dodgeWarning': 'None', 'playerResponse': 'None', 'state': 'InProgress', 'suppressUx': False, 'timer
+': 0.0}
+{'declinerIds': [], 'dodgeWarning': 'None', 'playerResponse': 'Accepted', 'state': 'InProgress', 'suppressUx': False, 't
+imer': 1.0}
+{'declinerIds': [], 'dodgeWarning': 'None', 'playerResponse': 'Accepted', 'state': 'InProgress', 'suppressUx': False, 't
+imer': 1.0}
+{'declinerIds': [], 'dodgeWarning': 'None', 'playerResponse': 'Accepted', 'state': 'InProgress', 'suppressUx': False, 't
+imer': 2.0}
+{'declinerIds': [], 'dodgeWarning': 'None', 'playerResponse': 'None', 'state': 'Invalid', 'suppressUx': False, 'timer':
+0.0}

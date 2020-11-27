@@ -1,0 +1,858 @@
+[{'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'cha
+mpionsRequiredToPlay': 16, 'description': '盲選', 'detailedDescription': '一般對戰（盲選）', 'gameMode': 'CLASSIC', 'gam
+eTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration':
+0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': Fal
+se, 'exclusivePick': False, 'gameModeOverride': None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'ma
+xAllowableBans': 0, 'name': 'GAME_CFG_PICK_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pic
+kMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 2, 'isRanke
+d': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 1506554727521, 'lastToggledOnTime':
+ 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 3
+, 'minimumParticipantListSize': 1, 'name': '一般對戰', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled',
+'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, '
+removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '一般對戰', 'showPositionSelector': False
+, 'spectatorEnabled': True, 'type': 'NORMAL'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': Tru
+e, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '隨機阿福快打', 'detailedDescrip
+tion': '', 'gameMode': 'URF', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipB
+anStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRem
+ove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 21, 'learningQuests': False,
+ 'mainPickTimerDuration': 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_RANDOM', 'numPlayersPerTeamOverride':
+ None, 'onboardCoopBeginner': False, 'pickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 33, 'reroll': True, '
+teamChampionPool': False}, 'id': 900, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggled
+OffTime': 1582099202163, 'lastToggledOnTime': 1579114824891, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfT
+heDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '隨機阿福快打', 'num
+PlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnab
+led': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinute
+s': 0, 'shortName': '隨機阿福快打', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'URF'}, {'allowable
+PremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequir
+edToPlay': 16, 'description': '入門', 'detailedDescription': '奧德賽（入門）', 'gameMode': 'ODYSSEY', 'gameTypeConfig':
+{'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoos
+t': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusive
+Pick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBan
+s': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode
+': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 1030, 'isRanked'
+: False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1539070579090, 'lastToggledOnTime': 15
+36797013544, 'mapId': 20, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'min
+Level': 10, 'minimumParticipantListSize': 1, 'name': '奧德賽（入門）', 'numPlayersPerTeam': 5, 'queueAvailability': 'Pla
+tformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeI
+pRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '奧德賽（入門）', 'showP
+ositionSelector': False, 'spectatorEnabled': False, 'type': 'ODYSSEY'}, {'allowablePremadeSizes': [1, 2, 3], 'areFreeCha
+mpionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 12, 'description': '盲選', 'deta
+iledDescription': '一般對戰（盲選）', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowT
+rades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False
+, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, '
+id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_PICK_BLIND', 'num
+PlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 1
+3, 'reroll': False, 'teamChampionPool': False}, 'id': 8, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly':
+ False, 'lastToggledOffTime': 1506554731219, 'lastToggledOnTime': 0, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFir
+stWinOfTheDay': 0, 'maximumParticipantListSize': 3, 'minLevel': 7, 'minimumParticipantListSize': 1, 'name': '一般對戰',
+'numPlayersPerTeam': 3, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIp
+Enabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMi
+nutes': 0, 'shortName': '一般對戰', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'NORMAL_3x3'}, {'al
+lowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': False, 'assetMutator': '', 'category': 'PvP', 'championsRequ
+iredToPlay': 12, 'description': '彈性積分', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advanc
+edLearningQuests': False, 'allowTrades': True, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost':
+False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick
+': True, 'gameModeOverride': None, 'id': 2, 'learningQuests': False, 'mainPickTimerDuration': 43, 'maxAllowableBans': 6,
+ 'name': 'GAME_CFG_DRAFT_STD', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'DraftModeSi
+nglePickStrategy', 'postPickTimerDuration': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 9, 'isRanked': True,
+'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 1506554733073, 'lastToggledOnTime': 1505458385
+328, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 3, 'minLevel':
+30, 'minimumParticipantListSize': 1, 'name': '彈性積分', 'numPlayersPerTeam': 3, 'queueAvailability': 'PlatformDisabled'
+, 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []},
+ 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '彈性積分', 'showPositionSelector': Fal
+se, 'spectatorEnabled': True, 'type': 'RANKED_FLEX_TT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAll
+owed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '霸權爭奪', 'detailedD
+escription': '', 'gameMode': 'ASCENSION', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'ban
+Mode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch'
+: False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 20, 'lear
+ningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND_DRAFT', 'nu
+mPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration':
+13, 'reroll': False, 'teamChampionPool': False}, 'id': 910, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly
+': False, 'lastToggledOffTime': 1511208017793, 'lastToggledOnTime': 1510891217594, 'mapId': 8, 'maxLevel': 0, 'maxSummon
+erLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name':
+ '霸權爭奪', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled'
+: True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFr
+omGameDelayMinutes': 0, 'shortName': '霸權爭奪', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'ASCEN
+SION'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP
+', 'championsRequiredToPlay': 16, 'description': '見習生', 'detailedDescription': '奧德賽（見習生）', 'gameMode': 'ODYSS
+EY', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDu
+ration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicateP
+ick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration
+': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBegi
+nner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False},
+ 'id': 1040, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1539070582319,
+'lastToggledOnTime': 1536797015907, 'mapId': 20, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumPartic
+ipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '奧德賽（見習生）', 'numPlayersPerTeam': 5,
+'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEn
+abled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName':
+ '奧德賽（見習生）', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'ODYSSEY'}, {'allowablePremadeSiz
+es': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay':
+ 20, 'description': '競技模式', 'detailedDescription': '一般對戰（競技選角）', 'gameMode': 'CLASSIC', 'gameTypeConfig':
+{'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battle
+Boost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclu
+sivePick': True, 'gameModeOverride': None, 'id': 18, 'learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableB
+ans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_DRAFT', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMo
+de': 'TeamBuilderDraftPickStrategy', 'postPickTimerDuration': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 400
+, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1510873266205, 'lastToggle
+dOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'min
+Level': 10, 'minimumParticipantListSize': 1, 'name': '一般對戰', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformD
+isabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpReward
+s': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '一般對戰', 'showPositionSelect
+or': True, 'spectatorEnabled': True, 'type': 'NORMAL'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllo
+wed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '', 'detailedDescriptio
+n': '', 'gameMode': 'NEXUSBLITZ', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'S
+tandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False,
+'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 18, 'learningQuests
+': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_DRAFT', 'numPlayersPerTeamOv
+erride': None, 'onboardCoopBeginner': False, 'pickMode': 'TeamBuilderDraftPickStrategy', 'postPickTimerDuration': 33, 'r
+eroll': False, 'teamChampionPool': False}, 'id': 1300, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': Fa
+lse, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 21, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay':
+ 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5
+, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXp
+Enabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName
+': '', 'showPositionSelector': True, 'spectatorEnabled': True, 'type': 'NEXUSBLITZ'}, {'allowablePremadeSizes': [1, 2, 3
+, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'descrip
+tion': '普羅王傳說', 'detailedDescription': '', 'gameMode': 'KINGPORO', 'gameTypeConfig': {'advancedLearningQuests': Fal
+se, 'allowTrades': True, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': True, 'crossTeamChampionPoo
+l': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride':
+ None, 'id': 21, 'learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUIL
+DER_RANDOM', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'AllRandomPickStrategy', 'post
+PickTimerDuration': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 920, 'isRanked': False, 'isTeamBuilderManaged
+': True, 'isTeamOnly': False, 'lastToggledOffTime': 1578988801867, 'lastToggledOnTime': 1576184404206, 'mapId': 12, 'max
+Level': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipan
+tListSize': 1, 'name': '普羅王傳說', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'
+isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAll
+owed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '普羅王傳說', 'showPositionSelector': False, 'spectatorEnab
+led': True, 'type': 'KING_PORO'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMuta
+tor': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '艦組人員', 'detailedDescription': '奧德賽（
+艦組人員）', 'gameMode': 'ODYSSEY', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode':
+ 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'd
+oNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests'
+: False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOv
+erride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': Fal
+se, 'teamChampionPool': False}, 'id': 1050, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastT
+oggledOffTime': 1539070586056, 'lastToggledOnTime': 1536797018144, 'mapId': 20, 'maxLevel': 0, 'maxSummonerLevelForFirst
+WinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '奧德賽（艦組
+人員）', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': Fa
+lse, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromG
+ameDelayMinutes': 0, 'shortName': '奧德賽（艦組人員）', 'showPositionSelector': False, 'spectatorEnabled': False, 'type'
+: 'ODYSSEY'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category'
+: 'VersusAi', 'championsRequiredToPlay': 16, 'description': '入門', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'g
+ameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration'
+: 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': F
+alse, 'exclusivePick': False, 'gameModeOverride': None, 'id': 1, 'learningQuests': True, 'mainPickTimerDuration': 93, 'm
+axAllowableBans': 0, 'name': 'GAME_CFG_PICK_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': True, 'pic
+kMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 31, 'isRank
+ed': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 1506554721996, 'lastToggledOnTime'
+: 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel':
+0, 'minimumParticipantListSize': 1, 'name': '入門', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'qu
+eueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 're
+movalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '入門', 'showPositionSelector': False, 'spe
+ctatorEnabled': False, 'type': 'BOT'}, {'allowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutat
+or': '', 'category': 'VersusAi', 'championsRequiredToPlay': 12, 'description': '中階', 'detailedDescription': '', 'gameM
+ode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy',
+ 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': True,
+'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTi
+merDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onbo
+ardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPoo
+l': False}, 'id': 800, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 15741
+50401539, 'lastToggledOnTime': 1525256504257, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'max
+imumParticipantListSize': 3, 'minLevel': 5, 'minimumParticipantListSize': 1, 'name': '中階', 'numPlayersPerTeam': 3, 'qu
+eueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabl
+ed': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '
+中階', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'BOT_3x3'}, {'allowablePremadeSizes': [1, 2, 3,
+ 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'VersusAi', 'championsRequiredToPlay': 16, 'des
+cription': '初階', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': True,
+'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool'
+: False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride':
+None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_PICK_BLIND
+', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDurat
+ion': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 32, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTe
+amOnly': False, 'lastToggledOffTime': 1506554723842, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLev
+elForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '初
+階', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False,
+ 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameD
+elayMinutes': 0, 'shortName': '初階', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'BOT'}, {'allowa
+blePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'VersusAi', 'champio
+nsRequiredToPlay': 16, 'description': '中階', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'adva
+ncedLearningQuests': True, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': Fal
+se, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick':
+False, 'gameModeOverride': None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, '
+name': 'GAME_CFG_PICK_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStr
+ategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 33, 'isRanked': False, 'isTeamBu
+ilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 1506554725677, 'lastToggledOnTime': 0, 'mapId': 11, 'ma
+xLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'minimumParticipan
+tListSize': 1, 'name': '中階', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isCham
+pionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed'
+: False, 'removalFromGameDelayMinutes': 0, 'shortName': '中階', 'showPositionSelector': False, 'spectatorEnabled': False
+, 'type': 'BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'categ
+ory': 'PvP', 'championsRequiredToPlay': 16, 'description': '隨機單中', 'detailedDescription': '', 'gameMode': 'CLASSIC',
+ 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDu
+ration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicate
+Pick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 20, 'learningQuests': False, 'mainPickTimerDuratio
+n': 93, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND_DRAFT', 'numPlayersPerTeamOverride': None, 'onboardC
+oopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool':
+False}, 'id': 930, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 151087325
+6702, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantL
+istSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '隨機單中', 'numPlayersPerTeam': 5, 'queueAvailabil
+ity': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, '
+partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '隨機單中', 's
+howPositionSelector': False, 'spectatorEnabled': True, 'type': 'BILGEWATER'}, {'allowablePremadeSizes': [1, 2], 'areFree
+ChampionsAllowed': False, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 20, 'description': '單 / 雙
+排積分', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTra
+des': True, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': Fal
+se, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None,
+'id': 18, 'learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_DRA
+FT', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'TeamBuilderDraftPickStrategy', 'postP
+ickTimerDuration': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 420, 'isRanked': True, 'isTeamBuilderManaged':
+ True, 'isTeamOnly': False, 'lastToggledOffTime': 1586986205382, 'lastToggledOnTime': 1586994560842, 'mapId': 11, 'maxLe
+vel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 2, 'minLevel': 30, 'minimumParticipantL
+istSize': 1, 'name': '單 / 雙排積分', 'numPlayersPerTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isCham
+pionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed':
+ False, 'removalFromGameDelayMinutes': 0, 'shortName': '單 / 雙排積分', 'showPositionSelector': True, 'spectatorEnabled'
+: True, 'type': 'RANKED_SOLO_5x5'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMu
+tator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '艦長', 'detailedDescription': '奧德賽（艦
+長）', 'gameMode': 'ODYSSEY', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'Skip
+BanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRe
+move': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': Fals
+e, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride
+': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 't
+eamChampionPool': False}, 'id': 1060, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggled
+OffTime': 1539070590010, 'lastToggledOnTime': 1536797020081, 'mapId': 20, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfT
+heDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '奧德賽（艦長）', '
+numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIp
+Enabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMi
+nutes': 0, 'shortName': '奧德賽（艦長）', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'ODYSSEY'},
+{'allowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'VersusAi', 'champ
+ionsRequiredToPlay': 12, 'description': '入門', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'ad
+vancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost':
+False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick
+': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans':
+0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': '
+SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 810, 'isRanked': Fal
+se, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1574150401541, 'lastToggledOnTime': 1507776
+371244, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 3, 'minLevel
+': 0, 'minimumParticipantListSize': 1, 'name': '入門', 'numPlayersPerTeam': 3, 'queueAvailability': 'PlatformDisabled',
+'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []},
+'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '入門', 'showPositionSelector': False, '
+spectatorEnabled': False, 'type': 'BOT_3x3'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True
+, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '聯邦圍城', 'detailedDescription'
+: '', 'gameMode': 'SIEGE', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'Standar
+dBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNot
+Remove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 20, 'learningQuests': Fa
+lse, 'mainPickTimerDuration': 93, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND_DRAFT', 'numPlayersPerTeam
+Override': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': F
+alse, 'teamChampionPool': False}, 'id': 940, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'last
+ToggledOffTime': 1510873274247, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay
+': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '聯邦圍城', 'numPlayersP
+erTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': Tr
+ue, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, '
+shortName': '聯邦圍城', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'SIEGE'}, {'allowablePremadeSiz
+es': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay':
+ 16, 'description': '普羅王傳說', 'detailedDescription': '', 'gameMode': 'KINGPORO', 'gameTypeConfig': {'advancedLearnin
+gQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28, 'battleBoost': False, '
+crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False
+, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTimerDuration': 53, 'maxAllowableBans': 6, 'name
+': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStr
+ategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 300, 'isRanked': False, 'isTeamB
+uilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 12, 'maxLevel': 0,
+ 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize'
+: 1, 'name': '普羅王傳說', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampion
+PointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': Fal
+se, 'removalFromGameDelayMinutes': 0, 'shortName': '普羅王傳說', 'showPositionSelector': False, 'spectatorEnabled': True
+, 'type': 'KING_PORO'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '',
+'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '盲選', 'detailedDescription': '一般對戰（盲選）', 'gam
+eMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy
+', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': Fals
+e, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPic
+kTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'o
+nboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampion
+Pool': False}, 'id': 430, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 15
+10873264762, 'lastToggledOnTime': 1510873468199, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, '
+maximumParticipantListSize': 5, 'minLevel': 3, 'minimumParticipantListSize': 1, 'name': '一般對戰', 'numPlayersPerTeam':
+ 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnable
+d': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '一
+般對戰', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'NORMAL'}, {'allowablePremadeSizes': [1, 2, 3,
+ 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'descript
+ion': '狂襲', 'detailedDescription': '奧德賽（狂襲）', 'gameMode': 'ODYSSEY', 'gameTypeConfig': {'advancedLearningQuests
+': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamCha
+mpionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeO
+verride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG
+_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy',
+'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 1070, 'isRanked': False, 'isTeamBuilderM
+anaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1539070593050, 'lastToggledOnTime': 1536797022894, 'mapId': 20
+, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumPart
+icipantListSize': 1, 'name': '奧德賽（狂襲）', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRe
+wards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removal
+FromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '奧德賽（狂襲）', 'showPositionSelector': False,
+ 'spectatorEnabled': False, 'type': 'ODYSSEY'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': Tr
+ue, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '盲選', 'detailedDescription':
+'', 'gameMode': 'GAMEMODEX', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'Standa
+rdBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNo
+tRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 18, 'learningQuests': Fa
+lse, 'mainPickTimerDuration': 0, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_DRAFT', 'numPlayersPerTeamOverrid
+e': None, 'onboardCoopBeginner': False, 'pickMode': 'TeamBuilderDraftPickStrategy', 'postPickTimerDuration': 33, 'reroll
+': False, 'teamChampionPool': False}, 'id': 1200, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False,
+'lastToggledOffTime': 1548143941286, 'lastToggledOnTime': 1544112001915, 'mapId': 21, 'maxLevel': 0, 'maxSummonerLevelFo
+rFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '閃電急
+擊', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True,
+'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDe
+layMinutes': 0, 'shortName': '閃電急擊', 'showPositionSelector': True, 'spectatorEnabled': True, 'type': 'GAMEMODEX'}, {
+'allowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'VersusAi', 'champi
+onsRequiredToPlay': 12, 'description': '初階', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'adv
+ancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': F
+alse, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': True, 'duplicatePick': False, 'exclusivePick':
+ False, 'gameModeOverride': None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0,
+'name': 'GAME_CFG_PICK_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickSt
+rategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 52, 'isRanked': False, 'isTeamB
+uilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 1506554729368, 'lastToggledOnTime': 0, 'mapId': 10, 'm
+axLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 3, 'minLevel': 5, 'minimumParticipa
+ntListSize': 1, 'name': '初階', 'numPlayersPerTeam': 3, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isCha
+mpionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed
+': False, 'removalFromGameDelayMinutes': 0, 'shortName': '初階', 'showPositionSelector': False, 'spectatorEnabled': Fals
+e, 'type': 'BOT_3x3'}, {'allowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'catego
+ry': 'VersusAi', 'championsRequiredToPlay': 12, 'description': '初階', 'detailedDescription': '', 'gameMode': 'CLASSIC',
+ 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDurati
+on': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick'
+: False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 9
+3, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner
+': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id
+': 820, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1574150401508, 'last
+ToggledOnTime': 1510873474113, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipant
+ListSize': 3, 'minLevel': 5, 'minimumParticipantListSize': 1, 'name': '初階', 'numPlayersPerTeam': 3, 'queueAvailability
+': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'par
+tySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '初階', 'showPosi
+tionSelector': False, 'spectatorEnabled': False, 'type': 'BOT_3x3'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFree
+ChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '', 'detai
+ledDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'ba
+nMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': True, 'crossTeamChampionPool': False, 'deathMatch'
+: False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 17, 'learn
+ingQuests': False, 'mainPickTimerDuration': 43, 'maxAllowableBans': 6, 'name': 'GAME_CFG_COUNTER_PICK', 'numPlayersPerTe
+amOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'CounterDraftPickStrategy', 'postPickTimerDuration': 63, 'r
+eroll': False, 'teamChampionPool': True}, 'id': 310, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': Fal
+se, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay':
+0, 'maximumParticipantListSize': 5, 'minLevel': 20, 'minimumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5,
+ 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpE
+nabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName'
+: '', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'COUNTER_PICK'}, {'allowablePremadeSizes': [1, 2,
+ 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'descr
+iption': '等級 100 挑戰模式', 'detailedDescription': '', 'gameMode': 'DOOMBOTSTEEMO', 'gameTypeConfig': {'advancedLearni
+ngQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'cros
+sTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'g
+ameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': '
+GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStr
+ategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 950, 'isRanked': False, 'isTeamB
+uilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1510873261913, 'lastToggledOnTime': 1509030028486, 'map
+Id': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'mini
+mumParticipantListSize': 1, 'name': '等級 100 挑戰模式', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled'
+, 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}
+, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '等級 100 挑戰模式', 'showPositionSele
+ctor': False, 'spectatorEnabled': False, 'type': 'NIGHTMARE_BOT'}, {'allowablePremadeSizes': [1, 2, 3, 5], 'areFreeChamp
+ionsAllowed': False, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 20, 'description': '彈性積分', 'd
+etailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True,
+ 'banMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathM
+atch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 18, '
+learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_DRAFT', 'numPl
+ayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'TeamBuilderDraftPickStrategy', 'postPickTimerDur
+ation': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 440, 'isRanked': True, 'isTeamBuilderManaged': True, 'isT
+eamOnly': False, 'lastToggledOffTime': 1586986201861, 'lastToggledOnTime': 1586994562979, 'mapId': 11, 'maxLevel': 0, 'm
+axSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 30, 'minimumParticipantListSize': 5
+, 'name': '彈性積分', 'numPlayersPerTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnable
+d': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removal
+FromGameDelayMinutes': 0, 'shortName': '彈性積分', 'showPositionSelector': True, 'spectatorEnabled': True, 'type': 'RANK
+ED_FLEX_SR'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category'
+: 'PvP', 'championsRequiredToPlay': 16, 'description': '', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeCo
+nfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28,
+ 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False
+, 'exclusivePick': False, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTimerDuration': 53, 'max
+AllowableBans': 6, 'name': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, '
+pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 313, 'is
+Ranked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'ma
+pId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'min
+imumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards'
+: {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGa
+meAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled':
+ True, 'type': 'BILGEWATER'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator'
+: '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '聯邦圍城', 'detailedDescription': '', 'gameMode'
+: 'SIEGE', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', '
+banTimerDuration': 28, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False,
+'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTi
+merDuration': 53, 'maxAllowableBans': 6, 'name': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardC
+oopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool':
+False}, 'id': 315, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 15075792
+18002, 'lastToggledOnTime': 1507262419683, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximu
+mParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '聯邦圍城', 'numPlayersPerTeam': 5, '
+queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnab
+led': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '
+聯邦圍城', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'SIEGE'}, {'allowablePremadeSizes': [5], 'ar
+eFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': 'Clas
+h', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades':
+ True, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, '
+deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id':
+ 18, 'learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_DRAFT',
+'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'TeamBuilderDraftPickStrategy', 'postPickTi
+merDuration': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 700, 'isRanked': True, 'isTeamBuilderManaged': True
+, 'isTeamOnly': False, 'lastToggledOffTime': 1586209390026, 'lastToggledOnTime': 1586217601135, 'mapId': 11, 'maxLevel':
+ 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSiz
+e': 5, 'name': 'Clash', 'numPlayersPerTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnab
+led': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'remov
+alFromGameDelayMinutes': 0, 'shortName': 'Clash', 'showPositionSelector': True, 'spectatorEnabled': True, 'type': 'CLASH
+'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'VersusA
+i', 'championsRequiredToPlay': 16, 'description': '入門', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeCon
+fig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'batt
+leBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exc
+lusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': True, 'mainPickTimerDuration': 93, 'maxAllowab
+leBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': True, 'pick
+Mode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 830, 'isRank
+ed': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1510873276356, 'lastToggledOnTime':
+ 1525256650325, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, '
+minLevel': 0, 'minimumParticipantListSize': 1, 'name': '入門', 'numPlayersPerTeam': 5, 'queueAvailability': 'Available',
+ 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []},
+ 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '入門', 'showPositionSelector': False,
+'spectatorEnabled': False, 'type': 'BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, '
+assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '隨機阿福快打', 'detailedDescription
+': '', 'gameMode': 'URF', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipBanSt
+rategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove'
+: False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 4, 'learningQuests': False, 'mai
+nPickTimerDuration': 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_PICK_RANDOM', 'numPlayersPerTeamOverride': None, 'onboa
+rdCoopBeginner': False, 'pickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 70, 'reroll': False, 'teamChampion
+Pool': False}, 'id': 318, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0
+, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListS
+ize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '隨機阿福快打', 'numPlayersPerTeam': 5, 'queueAvailabi
+lity': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, '
+partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '隨機阿福快打'
+, 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'URF'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'a
+reFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '摩
+魘降臨', 'detailedDescription': '', 'gameMode': 'DOOMBOTSTEEMO', 'gameTypeConfig': {'advancedLearningQuests': False, 'al
+lowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': F
+alse, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': Non
+e, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER
+_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTime
+rDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 960, 'isRanked': False, 'isTeamBuilderManaged': True,
+ 'isTeamOnly': False, 'lastToggledOffTime': 1510873260644, 'lastToggledOnTime': 1509030019819, 'mapId': 11, 'maxLevel':
+0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSiz
+e': 1, 'name': '摩魘降臨', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampion
+PointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': Fa
+lse, 'removalFromGameDelayMinutes': 0, 'shortName': '摩魘降臨', 'showPositionSelector': False, 'spectatorEnabled': False
+, 'type': 'NIGHTMARE_BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator':
+'', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '隨機單中', 'detailedDescription': '', 'gameMode':
+'ARAM', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipBanStrategy', 'banTimer
+Duration': 0, 'battleBoost': True, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicate
+Pick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 4, 'learningQuests': False, 'mainPickTimerDuration'
+: 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_PICK_RANDOM', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': Fa
+lse, 'pickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 70, 'reroll': True, 'teamChampionPool': False}, 'id':
+ 65, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 1507766014929, 'lastTo
+ggledOnTime': 0, 'mapId': 12, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5,
+'minLevel': 5, 'minimumParticipantListSize': 1, 'name': '隨機單中', 'numPlayersPerTeam': 5, 'queueAvailability': 'Platfo
+rmDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRew
+ards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '隨機單中', 'showPositionSel
+ector': False, 'spectatorEnabled': True, 'type': 'ARAM_UNRANKED_5x5'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5, 6, 7, 8
+], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 22, 'description':
+ '一般對戰', 'detailedDescription': '聯盟戰棋（一般）', 'gameMode': 'TFT', 'gameTypeConfig': {'advancedLearningQuests':
+False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampi
+onPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOver
+ride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TE
+AM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'po
+stPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 1090, 'isRanked': False, 'isTeamBuilderMana
+ged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1572439897158, 'lastToggledOnTime': 1572441043635, 'mapId': 22, '
+maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 8, 'minLevel': 0, 'minimumParticip
+antListSize': 1, 'name': '聯盟戰棋（一般）', 'numPlayersPerTeam': 8, 'queueAvailability': 'Available', 'queueRewards': {
+'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameA
+llowed': True, 'removalFromGameDelayMinutes': 9, 'shortName': '聯盟戰棋（一般）', 'showPositionSelector': False, 'specta
+torEnabled': False, 'type': 'NORMAL_TFT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, '
+assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '隨機單中', 'detailedDescription': '
+', 'gameMode': 'ARAM', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipBanStrat
+egy', 'banTimerDuration': 0, 'battleBoost': True, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': Fa
+lse, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 21, 'learningQuests': False, 'mainPi
+ckTimerDuration': 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_RANDOM', 'numPlayersPerTeamOverride': None, '
+onboardCoopBeginner': False, 'pickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 33, 'reroll': False, 'teamCha
+mpionPool': False}, 'id': 450, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime
+': 1578535988377, 'lastToggledOnTime': 1578535998344, 'mapId': 12, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay':
+ 0, 'maximumParticipantListSize': 5, 'minLevel': 6, 'minimumParticipantListSize': 1, 'name': '隨機單中', 'numPlayersPerT
+eam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpE
+nabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName'
+: '隨機單中', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'ARAM_UNRANKED_5x5'}, {'allowablePremadeS
+izes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay
+': 16, 'description': '召喚峽谷（全部隨機）', 'detailedDescription': '', 'gameMode': 'ARSR', 'gameTypeConfig': {'advance
+dLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': True,
+'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': True
+, 'gameModeOverride': None, 'id': 4, 'learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 0, 'name':
+ 'GAME_CFG_PICK_RANDOM', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'AllRandomPickStra
+tegy', 'postPickTimerDuration': 70, 'reroll': True, 'teamChampionPool': False}, 'id': 325, 'isRanked': False, 'isTeamBui
+lderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, '
+maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize':
+1, 'name': '召喚峽谷（全部隨機）', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'is
+ChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllow
+ed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '召喚峽谷（全部隨機）', 'showPositionSelector': False, 'spect
+atorEnabled': True, 'type': 'ARSR'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetM
+utator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '', 'detailedDescription': '', 'gameMode':
+ 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy',
+'banTimerDuration': 38, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False,
+ 'duplicatePick': True, 'exclusivePick': False, 'gameModeOverride': None, 'id': 14, 'learningQuests': False, 'mainPickTi
+merDuration': 43, 'maxAllowableBans': 6, 'name': 'GAME_CFG_BLIND_DUPE', 'numPlayersPerTeamOverride': None, 'onboardCoopB
+eginner': False, 'pickMode': 'OneTeamVotePickStrategy', 'postPickTimerDuration': 63, 'reroll': False, 'teamChampionPool'
+: True}, 'id': 70, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'last
+ToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5
+, 'minLevel': 5, 'minimumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisa
+bled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards':
+ []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False,
+ 'spectatorEnabled': True, 'type': 'ONEFORALL_5x5'}, {'allowablePremadeSizes': [1], 'areFreeChampionsAllowed': True, 'as
+setMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 8, 'description': '', 'detailedDescription': '', 'gameMod
+e': 'FIRSTBLOOD', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrat
+egy', 'banTimerDuration': 28, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove':
+False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 7, 'learningQuests': False, 'main
+PickTimerDuration': 53, 'maxAllowableBans': 6, 'name': 'GAME_CFG_PICK_SIMUL_TD', 'numPlayersPerTeamOverride': None, 'onb
+oardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 43, 'reroll': False, 'teamChampionPo
+ol': False}, 'id': 72, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, '
+lastToggledOnTime': 0, 'mapId': 12, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize
+': 1, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 1, 'queueAvailability': 'Platfor
+mDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRew
+ards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector':
+False, 'spectatorEnabled': True, 'type': 'FIRSTBLOOD_1x1'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampions
+Allowed': True, 'assetMutator': '', 'category': 'VersusAi', 'championsRequiredToPlay': 16, 'description': '初階', 'detai
+ledDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLearningQuests': True, 'allowTrades': False, 'ba
+nMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': Fa
+lse, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learning
+Quests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPe
+rTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'rerol
+l': False, 'teamChampionPool': False}, 'id': 840, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False,
+'lastToggledOffTime': 1510873275106, 'lastToggledOnTime': 1510873472817, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelFo
+rFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '初階',
+'numPlayersPerTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnable
+d': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes'
+: 0, 'shortName': '初階', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'BOT'}, {'allowablePremadeSi
+zes': [1, 2], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 10, 'de
+scription': '', 'detailedDescription': '', 'gameMode': 'FIRSTBLOOD', 'gameTypeConfig': {'advancedLearningQuests': False,
+ 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28, 'battleBoost': False, 'crossTeamChampio
+nPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverr
+ide': None, 'id': 7, 'learningQuests': False, 'mainPickTimerDuration': 53, 'maxAllowableBans': 6, 'name': 'GAME_CFG_PICK
+_SIMUL_TD', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickT
+imerDuration': 43, 'reroll': False, 'teamChampionPool': False}, 'id': 73, 'isRanked': False, 'isTeamBuilderManaged': Fal
+se, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 12, 'maxLevel': 0, 'maxSummonerLevelF
+orFirstWinOfTheDay': 0, 'maximumParticipantListSize': 2, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '', 'n
+umPlayersPerTeam': 2, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpE
+nabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMin
+utes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'FIRSTBLOOD_2x2'}, {'allowab
+lePremadeSizes': [1, 2, 3, 4, 5, 6], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsR
+equiredToPlay': 18, 'description': '', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLea
+rningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28, 'battleBoost': Fals
+e, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': F
+alse, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTimerDuration': 53, 'maxAllowableBans': 6, '
+name': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPic
+kStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 75, 'isRanked': False, 'isTe
+amBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel':
+ 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 6, 'minLevel': 10, 'minimumParticipantListSi
+ze': 1, 'name': '', 'numPlayersPerTeam': 6, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsE
+nabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'r
+emovalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'SR_6x
+6'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP',
+'championsRequiredToPlay': 16, 'description': '', 'detailedDescription': '', 'gameMode': 'URF', 'gameTypeConfig': {'adva
+ncedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28, 'battleBoost
+': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusiveP
+ick': False, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTimerDuration': 53, 'maxAllowableBans
+': 6, 'name': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'S
+imulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 76, 'isRanked': False
+, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 11, 'max
+Level': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipan
+tListSize': 1, 'name': '', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampion
+PointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': Fal
+se, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled': True, 'type':
+'URF'}, {'allowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'ch
+ampionsRequiredToPlay': 12, 'description': '盲選', 'detailedDescription': '一般對戰（盲選）', 'gameMode': 'CLASSIC', 'ga
+meTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration':
+ 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': Fa
+lse, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, '
+maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': F
+alse, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 4
+60, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1580360792872, 'lastTogg
+ledOnTime': 1510873468847, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantList
+Size': 3, 'minLevel': 7, 'minimumParticipantListSize': 1, 'name': '一般對戰', 'numPlayersPerTeam': 3, 'queueAvailability
+': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'part
+ySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '一般對戰', 'showP
+ositionSelector': False, 'spectatorEnabled': True, 'type': 'NORMAL_3x3'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5, 6, 7
+, 8], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 22, 'descriptio
+n': '積分', 'detailedDescription': '聯盟戰棋（積分）', 'gameMode': 'TFT', 'gameTypeConfig': {'advancedLearningQuests': F
+alse, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampio
+nPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverr
+ide': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEA
+M_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'pos
+tPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 1100, 'isRanked': True, 'isTeamBuilderManage
+d': True, 'isTeamOnly': False, 'lastToggledOffTime': 1586986207446, 'lastToggledOnTime': 1586994565000, 'mapId': 22, 'ma
+xLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 8, 'minLevel': 0, 'minimumParticipan
+tListSize': 1, 'name': '聯盟戰棋（積分）', 'numPlayersPerTeam': 8, 'queueAvailability': 'Available', 'queueRewards': {'i
+sChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAll
+owed': True, 'removalFromGameDelayMinutes': 9, 'shortName': '聯盟戰棋（積分）', 'showPositionSelector': False, 'spectato
+rEnabled': False, 'type': 'RANKED_TFT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'as
+setMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '', 'detailedDescription': '', 'gameMo
+de': 'ARAM', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'ba
+nTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': True, 'deathMatch': False, 'doNotRemove': False, 'dup
+licatePick': True, 'exclusivePick': False, 'gameModeOverride': None, 'id': 15, 'learningQuests': False, 'mainPickTimerDu
+ration': 43, 'maxAllowableBans': 0, 'name': 'GAME_CFG_CROSS_DUPE', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginn
+er': False, 'pickMode': 'AllTeamVotePickStrategy', 'postPickTimerDuration': 63, 'reroll': False, 'teamChampionPool': Fal
+se}, 'id': 78, 'isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastTogg
+ledOnTime': 0, 'mapId': 12, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'm
+inLevel': 10, 'minimumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisable
+d', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []
+}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False, 's
+pectatorEnabled': True, 'type': 'ONEFORALL_5x5'}, {'allowablePremadeSizes': [1], 'areFreeChampionsAllowed': True, 'asset
+Mutator': '', 'category': 'PvP', 'championsRequiredToPlay': 8, 'description': '教學模式 1', 'detailedDescription': '', '
+gameMode': 'TUTORIAL_MODULE_1', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'Sk
+ipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNot
+Remove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': Fa
+lse, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverri
+de': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False,
+'teamChampionPool': False}, 'id': 2000, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggl
+edOffTime': 0, 'lastToggledOnTime': 1537308291972, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0,
+ 'maximumParticipantListSize': 1, 'minLevel': 1, 'minimumParticipantListSize': 1, 'name': '教學模式 1', 'numPlayersPerTe
+am': 1, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpE
+nabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName'
+: '教學模式 1', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'TUTORIAL_MODULE_1'}, {'allowablePrema
+deSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'VersusAi', 'championsRequir
+edToPlay': 16, 'description': '中階', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advancedLear
+ningQuests': True, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'cro
+ssTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, '
+gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name':
+'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickSt
+rategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 850, 'isRanked': False, 'isTeam
+BuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1510873278737, 'lastToggledOnTime': 1510873473469, 'ma
+pId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 0, 'mini
+mumParticipantListSize': 1, 'name': '中階', 'numPlayersPerTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'
+isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAl
+lowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '中階', 'showPositionSelector': False, 'spectatorEnabled':
+ False, 'type': 'BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '',
+'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '一般對戰', 'detailedDescription': '幽怪入侵（一般）',
+'gameMode': 'STARGUARDIAN', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBa
+nStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemo
+ve': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False,
+ 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride':
+ None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'tea
+mChampionPool': False}, 'id': 980, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOff
+Time': 1506409158750, 'lastToggledOnTime': 0, 'mapId': 18, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'max
+imumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '幽怪入侵（一般）', 'numPlayersPer
+Team': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': Tru
+e, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 's
+hortName': '幽怪入侵（一般）', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'STARGUARDIAN'}, {'allo
+wablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': False, 'assetMutator': '', 'category': 'PvP', 'championsRequir
+edToPlay': 12, 'description': '彈性積分', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advanced
+LearningQuests': False, 'allowTrades': True, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 38, 'battleBoost': Fa
+lse, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick':
+ True, 'gameModeOverride': None, 'id': 18, 'learningQuests': False, 'mainPickTimerDuration': 0, 'maxAllowableBans': 6, '
+name': 'GAME_CFG_TEAM_BUILDER_DRAFT', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'Team
+BuilderDraftPickStrategy', 'postPickTimerDuration': 33, 'reroll': False, 'teamChampionPool': False}, 'id': 470, 'isRanke
+d': True, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1586986203161, 'lastToggledOnTime': 1
+580358489589, 'mapId': 10, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 3, 'mi
+nLevel': 30, 'minimumParticipantListSize': 1, 'name': '彈性積分', 'numPlayersPerTeam': 3, 'queueAvailability': 'Platform
+Disabled', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewar
+ds': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '彈性積分', 'showPositionSelec
+tor': False, 'spectatorEnabled': True, 'type': 'RANKED_FLEX_TT'}, {'allowablePremadeSizes': [1], 'areFreeChampionsAllowe
+d': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 22, 'description': '教學模式', 'detailedDesc
+ription': '', 'gameMode': 'TFT', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'S
+kipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNo
+tRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': F
+alse, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverr
+ide': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False,
+ 'teamChampionPool': False}, 'id': 1110, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastTogg
+ledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 22, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumPa
+rticipantListSize': 1, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '聯盟戰棋（教學模式）', 'numPlayersPerTea
+m': 8, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True,
+'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': True, 'removalFromGameDelayMinutes': 0, 'short
+Name': '聯盟戰棋（教學模式）', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'TUTORIAL_TFT'}, {'allo
+wablePremadeSizes': [1], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPla
+y': 22, 'description': '', 'detailedDescription': '', 'gameMode': 'TFT', 'gameTypeConfig': {'advancedLearningQuests': Fa
+lse, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampion
+Pool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverri
+de': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM
+_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'post
+PickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 1111, 'isRanked': False, 'isTeamBuilderManage
+d': True, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 22, 'maxLevel': 0, 'maxSummoner
+LevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 1, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '
+', 'numPlayersPerTeam': 8, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, '
+isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': True, 'removalFromGameDela
+yMinutes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'NORMAL_TFT'}, {'allowa
+blePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsReq
+uiredToPlay': 16, 'description': '血月獵殺', 'detailedDescription': '', 'gameMode': 'ASSASSINATE', 'gameTypeConfig': {'a
+dvancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost':
+ False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePic
+k': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans':
+ 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode':
+'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 600, 'isRanked': Fa
+lse, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1519113634921, 'lastToggledOnTime': 151911
+0663589, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLeve
+l': 10, 'minimumParticipantListSize': 1, 'name': '血月獵殺', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisab
+led', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards':
+[]}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '血月獵殺', 'showPositionSelector':
+ False, 'spectatorEnabled': True, 'type': 'ASSASSINATE'}, {'allowablePremadeSizes': [1], 'areFreeChampionsAllowed': True
+, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '教學模式 2', 'detailedDescriptio
+n': '', 'gameMode': 'TUTORIAL_MODULE_2', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banM
+ode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': Fals
+e, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQu
+ests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerT
+eamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll'
+: False, 'teamChampionPool': False}, 'id': 2010, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, '
+lastToggledOffTime': 0, 'lastToggledOnTime': 1537308305955, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTh
+eDay': 0, 'maximumParticipantListSize': 1, 'minLevel': 1, 'minimumParticipantListSize': 1, 'name': '教學模式 2', 'numPla
+yersPerTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': Tru
+e, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 's
+hortName': '教學模式 2', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'TUTORIAL_MODULE_2'}, {'allow
+ablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRe
+quiredToPlay': 16, 'description': '摩魘降臨', 'detailedDescription': '', 'gameMode': 'DOOMBOTSTEEMO', 'gameTypeConfig':
+{'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoos
+t': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusive
+Pick': False, 'gameModeOverride': None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans
+': 0, 'name': 'GAME_CFG_PICK_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'Simul
+PickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 91, 'isRanked': False, 'i
+sTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLeve
+l': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantLis
+tSize': 1, 'name': '摩魘降臨', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isCham
+pionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed'
+: False, 'removalFromGameDelayMinutes': 0, 'shortName': '摩魘降臨', 'showPositionSelector': False, 'spectatorEnabled': F
+alse, 'type': 'NIGHTMARE_BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutato
+r': '', 'category': 'VersusAi', 'championsRequiredToPlay': 16, 'description': '', 'detailedDescription': '', 'gameMode':
+ 'ARAM', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipBanStrategy', 'banTime
+rDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplica
+tePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 21, 'learningQuests': False, 'mainPickTimerDurati
+on': 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_RANDOM', 'numPlayersPerTeamOverride': None, 'onboardCoopBe
+ginner': False, 'pickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 33, 'reroll': False, 'teamChampionPool': F
+alse}, 'id': 860, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1586994377
+699, 'lastToggledOnTime': 1586993109837, 'mapId': 12, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumP
+articipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5, 'queueAvaila
+bility': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True
+, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPo
+sitionSelector': False, 'spectatorEnabled': False, 'type': 'ARAM_BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areF
+reeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '等級 1
+00 挑戰模式', 'detailedDescription': '', 'gameMode': 'DOOMBOTSTEEMO', 'gameTypeConfig': {'advancedLearningQuests': False
+, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPoo
+l': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride'
+: None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_PICK_BLI
+ND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDur
+ation': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 92, 'isRanked': False, 'isTeamBuilderManaged': False, 'is
+TeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirst
+WinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '等級 100 挑
+戰模式', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': Fa
+lse, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromG
+ameDelayMinutes': 0, 'shortName': '等級 100 挑戰模式', 'showPositionSelector': False, 'spectatorEnabled': False, 'type':
+ 'NIGHTMARE_BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'cate
+gory': 'PvP', 'championsRequiredToPlay': 16, 'description': '', 'detailedDescription': '', 'gameMode': 'DOOMBOTSTEEMO',
+'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuratio
+n': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick':
+ False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 1, 'learningQuests': False, 'mainPickTimerDuration': 93,
+ 'maxAllowableBans': 0, 'name': 'GAME_CFG_PICK_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False,
+'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 93, 'is
+Ranked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'ma
+pId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'min
+imumParticipantListSize': 1, 'name': '', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards'
+: {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGa
+meAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled':
+ False, 'type': 'NIGHTMARE_BOT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMuta
+tor': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '狂襲', 'detailedDescription': '幽怪入侵（狂
+襲）', 'gameMode': 'STARGUARDIAN', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode':
+'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'do
+NotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests':
+ False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOve
+rride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': Fals
+e, 'teamChampionPool': False}, 'id': 990, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastTog
+gledOffTime': 1506409179026, 'lastToggledOnTime': 0, 'mapId': 18, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay':
+0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '幽怪入侵（狂襲）', 'numPla
+yersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnable
+d': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes'
+: 0, 'shortName': '幽怪入侵（狂襲）', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'STARGUARDIAN'},
+ {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'cha
+mpionsRequiredToPlay': 16, 'description': '霸權爭奪', 'detailedDescription': '', 'gameMode': 'ASCENSION', 'gameTypeConfi
+g': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28, 'b
+attleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, '
+exclusivePick': False, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTimerDuration': 53, 'maxAll
+owableBans': 6, 'name': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pic
+kMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 96, 'isRank
+ed': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId'
+: 8, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumP
+articipantListSize': 1, 'name': '霸權爭奪', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewar
+ds': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFrom
+GameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '霸權爭奪', 'showPositionSelector': False, 'spectato
+rEnabled': True, 'type': 'ASCENSION'}, {'allowablePremadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutat
+or': '', 'category': 'PvP', 'championsRequiredToPlay': 12, 'description': '幽冥煞星：奇點降臨', 'detailedDescription': '
+', 'gameMode': 'DARKSTAR', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'SkipBan
+Strategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemov
+e': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests': False,
+'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride':
+None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'team
+ChampionPool': False}, 'id': 610, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffT
+ime': 1510873259227, 'lastToggledOnTime': 1508472377922, 'mapId': 16, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDa
+y': 0, 'maximumParticipantListSize': 3, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '幽冥煞星：奇點降臨', '
+numPlayersPerTeam': 3, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': False, 'isIp
+Enabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMi
+nutes': 0, 'shortName': '幽冥煞星', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'DARKSTAR'}, {'allo
+wablePremadeSizes': [1, 2, 3, 4, 5, 6], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'champio
+nsRequiredToPlay': 18, 'description': '', 'detailedDescription': '', 'gameMode': 'CLASSIC', 'gameTypeConfig': {'advanced
+LearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDuration': 28, 'battleBoost': F
+alse, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick'
+: False, 'gameModeOverride': None, 'id': 16, 'learningQuests': False, 'mainPickTimerDuration': 53, 'maxAllowableBans': 6
+, 'name': 'GAME_CFG_BLIND_DRAFT_ST', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'Simul
+PickStrategy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 98, 'isRanked': False, 'i
+sTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, 'mapId': 10, 'maxLeve
+l': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 6, 'minLevel': 10, 'minimumParticipantLis
+tSize': 1, 'name': '', 'numPlayersPerTeam': 6, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPoin
+tsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False,
+'removalFromGameDelayMinutes': 0, 'shortName': '', 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'HEX
+AKILL'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'Pv
+P', 'championsRequiredToPlay': 16, 'description': '盲選', 'detailedDescription': '一般對戰（盲選）', 'gameMode': 'ARAM',
+ 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'SkipBanStrategy', 'banTimerDuratio
+n': 0, 'battleBoost': True, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick':
+False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 4, 'learningQuests': False, 'mainPickTimerDuration': 0, 'm
+axAllowableBans': 0, 'name': 'GAME_CFG_PICK_RANDOM', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'p
+ickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 70, 'reroll': True, 'teamChampionPool': False}, 'id': 100, '
+isRanked': False, 'isTeamBuilderManaged': False, 'isTeamOnly': False, 'lastToggledOffTime': 0, 'lastToggledOnTime': 0, '
+mapId': 14, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 5, 'mi
+nimumParticipantListSize': 1, 'name': '一般對戰', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queu
+eRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'remov
+alFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '一般對戰', 'showPositionSelector': False, 'sp
+ectatorEnabled': True, 'type': 'ARAM_UNRANKED_5x5'}, {'allowablePremadeSizes': [1], 'areFreeChampionsAllowed': True, 'as
+setMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '教學模式 3', 'detailedDescription': '
+', 'gameMode': 'TUTORIAL_MODULE_3', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode':
+ 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'd
+oNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'gameModeOverride': None, 'id': 19, 'learningQuests'
+: False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOv
+erride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStrategy', 'postPickTimerDuration': 13, 'reroll': Fal
+se, 'teamChampionPool': False}, 'id': 2020, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastT
+oggledOffTime': 0, 'lastToggledOnTime': 1537308317301, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay'
+: 0, 'maximumParticipantListSize': 1, 'minLevel': 1, 'minimumParticipantListSize': 1, 'name': '教學模式 3', 'numPlayersP
+erTeam': 5, 'queueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': False, 'isIpEnabled': True, 'i
+sXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortN
+ame': '教學模式 3', 'showPositionSelector': False, 'spectatorEnabled': False, 'type': 'TUTORIAL_MODULE_3'}, {'allowableP
+remadeSizes': [1, 2, 3], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category': 'PvP', 'championsRequiredToPla
+y': 12, 'description': '核心超載', 'detailedDescription': '', 'gameMode': 'PROJECT', 'gameTypeConfig': {'advancedLearnin
+gQuests': False, 'allowTrades': False, 'banMode': 'SkipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'cross
+TeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick': False, 'exclusivePick': False, 'ga
+meModeOverride': None, 'id': 19, 'learningQuests': False, 'mainPickTimerDuration': 93, 'maxAllowableBans': 0, 'name': 'G
+AME_CFG_TEAM_BUILDER_BLIND', 'numPlayersPerTeamOverride': None, 'onboardCoopBeginner': False, 'pickMode': 'SimulPickStra
+tegy', 'postPickTimerDuration': 13, 'reroll': False, 'teamChampionPool': False}, 'id': 1000, 'isRanked': False, 'isTeamB
+uilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1512461237916, 'lastToggledOnTime': 1511366418083, 'map
+Id': 19, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumParticipantListSize': 3, 'minLevel': 10, 'mini
+mumParticipantListSize': 1, 'name': '核心超載', 'numPlayersPerTeam': 3, 'queueAvailability': 'PlatformDisabled', 'queueR
+ewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removal
+FromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '核心超載', 'showPositionSelector': False, 'spec
+tatorEnabled': True, 'type': 'PROJECT'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'as
+setMutator': '', 'category': 'PvP', 'championsRequiredToPlay': 16, 'description': '阿福快打：雪球大戰', 'detailedDescrip
+tion': '', 'gameMode': 'SNOWURF', 'gameTypeConfig': {'advancedLearningQuests': False, 'allowTrades': True, 'banMode': 'S
+kipBanStrategy', 'banTimerDuration': 0, 'battleBoost': False, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNo
+tRemove': False, 'duplicatePick': False, 'exclusivePick': True, 'gameModeOverride': None, 'id': 21, 'learningQuests': Fa
+lse, 'mainPickTimerDuration': 0, 'maxAllowableBans': 0, 'name': 'GAME_CFG_TEAM_BUILDER_RANDOM', 'numPlayersPerTeamOverri
+de': None, 'onboardCoopBeginner': False, 'pickMode': 'AllRandomPickStrategy', 'postPickTimerDuration': 33, 'reroll': Fal
+se, 'teamChampionPool': False}, 'id': 1010, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastT
+oggledOffTime': 1514908518642, 'lastToggledOnTime': 1513699219169, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirst
+WinOfTheDay': 0, 'maximumParticipantListSize': 5, 'minLevel': 10, 'minimumParticipantListSize': 1, 'name': '阿福快打：雪
+球大戰', 'numPlayersPerTeam': 5, 'queueAvailability': 'PlatformDisabled', 'queueRewards': {'isChampionPointsEnabled': Tr
+ue, 'isIpEnabled': True, 'isXpEnabled': True, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGa
+meDelayMinutes': 0, 'shortName': '阿福快打：雪球大戰', 'showPositionSelector': False, 'spectatorEnabled': True, 'type':
+'SNOWURF'}, {'allowablePremadeSizes': [1, 2, 3, 4, 5], 'areFreeChampionsAllowed': True, 'assetMutator': '', 'category':
+'PvP', 'championsRequiredToPlay': 16, 'description': '無限死鬥', 'detailedDescription': '', 'gameMode': 'ONEFORALL', 'ga
+meTypeConfig': {'advancedLearningQuests': False, 'allowTrades': False, 'banMode': 'StandardBanStrategy', 'banTimerDurati
+on': 38, 'battleBoost': True, 'crossTeamChampionPool': False, 'deathMatch': False, 'doNotRemove': False, 'duplicatePick'
+: True, 'exclusivePick': False, 'gameModeOverride': None, 'id': 22, 'learningQuests': False, 'mainPickTimerDuration': 43
+, 'maxAllowableBans': 6, 'name': 'GAME_CFG_TEAM_BUILDER_BLIND_DUPE', 'numPlayersPerTeamOverride': None, 'onboardCoopBegi
+nner': False, 'pickMode': 'OneTeamVotePickStrategy', 'postPickTimerDuration': 63, 'reroll': False, 'teamChampionPool': T
+rue}, 'id': 1020, 'isRanked': False, 'isTeamBuilderManaged': True, 'isTeamOnly': False, 'lastToggledOffTime': 1523948341
+557, 'lastToggledOnTime': 1585252802001, 'mapId': 11, 'maxLevel': 0, 'maxSummonerLevelForFirstWinOfTheDay': 0, 'maximumP
+articipantListSize': 5, 'minLevel': 0, 'minimumParticipantListSize': 1, 'name': '無限死鬥', 'numPlayersPerTeam': 5, 'que
+ueAvailability': 'Available', 'queueRewards': {'isChampionPointsEnabled': True, 'isIpEnabled': True, 'isXpEnabled': True
+, 'partySizeIpRewards': []}, 'removalFromGameAllowed': False, 'removalFromGameDelayMinutes': 0, 'shortName': '無限死鬥',
+ 'showPositionSelector': False, 'spectatorEnabled': True, 'type': 'ONEFORALL'}]
